@@ -13,3 +13,4 @@ wsgi/odyssy/.idea/
 
 /wsgi/odyssy/venv/
 /wsgi/media
+.vscode/

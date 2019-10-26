@@ -1,4 +1,4 @@
-Django==1.10
+Django==2.2
 django-filter==1.0.4
 django-photologue==3.7
 django-sortedm2m==1.4.0
@@ -9,6 +9,6 @@ ExifRead==2.1.2
 Markdown==2.6.8
 olefile==0.44
 Pillow==4.1.1
-psycopg2==2.7.1
+psycopg2==2.8.2
 six==1.10.0
 django-widget-tweaks==1.4.2
